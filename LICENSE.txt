@@ -1,0 +1,1 @@
+Project Athena, Athena Dashboard, Athena MUSE, Kerberos, X Window System, TechInfo, and Zephyr are trademarks of the Massachusetts Institute of Technology (MIT). Athena, Discuss, Hesiod, Moria, OLC, and TechMail are registered trademarks of MIT. No commercial use of these trademarks may be made without prior written permission of MIT.
